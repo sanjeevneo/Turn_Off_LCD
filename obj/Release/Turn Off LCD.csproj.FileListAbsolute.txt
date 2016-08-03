@@ -1,0 +1,4 @@
+C:\Users\SESA425511.APA\Downloads\TurnOff\Turn Off LCD\bin\Release\Turn Off LCD.exe
+C:\Users\SESA425511.APA\Downloads\TurnOff\Turn Off LCD\bin\Release\Turn Off LCD.pdb
+C:\Users\SESA425511.APA\Downloads\TurnOff\Turn Off LCD\obj\Release\Turn Off LCD.exe
+C:\Users\SESA425511.APA\Downloads\TurnOff\Turn Off LCD\obj\Release\Turn Off LCD.pdb
